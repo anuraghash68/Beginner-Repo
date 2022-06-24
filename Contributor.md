@@ -30,4 +30,5 @@ Format
 
 ## [Aryan Patel](https://github.com/patelaryan7751/)
 
+## [Anurag Kumar](https://github.com/anuraghash68/)
 
